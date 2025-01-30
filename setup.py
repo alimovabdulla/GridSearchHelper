@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="GridSearchHelper",  # Kitabxananın adı
-    version="0.4.0",  # Kitabxananın versiyası
+    version="0.5.0",  # Kitabxananın versiyası
     description="A library for hyperparameter tuning using grid search for machine learning models.",
     long_description=open(
         "README.md"
