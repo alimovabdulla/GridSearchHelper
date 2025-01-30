@@ -9,7 +9,7 @@ setup(
     ).read(),  # Kitabxananın geniş təsviri README.md faylından alınacaq
     long_description_content_type="text/markdown",  # README faylının formatı
     author="Abdulla Alimov",  # Müəllifin adı
-    author_email="abdullaalimov555@gmail.com",  # Müəllifin emaili
+    author_email="abdullaalimov555@gmail.com",  # Müəllifin e-maili
     url="https://github.com/username/ModelTuner",  # GitHub repo linki
     packages=find_packages(),  # Bütün paketləri tapır
     classifiers=[

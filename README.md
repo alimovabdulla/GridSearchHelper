@@ -22,6 +22,6 @@ This project implements a hyperparameter tuning utility for multiple classifiers
 
 ## Setup
 1. Clone this repository:
-   ```bash
+   ``bash
    git clone https://github.com/alimovabdulla/GridSearchHelper.git
 >>>>>>> 27a8174 (Updated project with new features)
